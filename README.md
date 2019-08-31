@@ -39,6 +39,7 @@ I've been using the following libraries to run this:
 * Matplotlib 1.5.1 or 2.1.1
 * Ngspice 26-1 or 27-1
 * Jupyter Notebook =1.0.0
+* ply
 
 All this is running on Ubuntu 16.04 LTS or 18.04 LTS.
 
@@ -79,6 +80,11 @@ Jupyter notebook was installed using pip with:
 
 ```
 python3 -m pip install jupyter
+```
+
+Ply was installed using pip with:
+```
+python3 -m pip install ply
 ```
 
 ## LICENSING
